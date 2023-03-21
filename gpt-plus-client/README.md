@@ -1,3 +1,3 @@
-#GPT Plus Client
+# GPT Plus Client
 
 Rust-lang
