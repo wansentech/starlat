@@ -1,5 +1,5 @@
 [package]
-name = "app"
+name = "starlat-gpt-client"
 version = "0.1.0"
 description = "gpt-plus client"
 authors = ["James Zow"]
