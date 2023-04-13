@@ -1,4 +1,4 @@
-# GPT Plus
+# Starlat (星拉特)
 Designed to build a cross platform application collection based on Open AI ChatGPT-4
 
 ## Tauri + React + Typescript
